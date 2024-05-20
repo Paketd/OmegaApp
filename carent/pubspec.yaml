@@ -33,6 +33,10 @@ flutter:
         - asset: assets/fonts/Baloo2-VariableFont_wght.ttf
         - asset: assets/fonts/Baloo2-ExtraBold.ttf
           weight: 900
+fonts:
+     - family:  AppIcons
+       fonts:
+        - asset: fonts/AppIcons.ttf
 
   #   - family: Trajan Pro
   #     fonts:
